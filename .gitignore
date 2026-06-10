@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# C++
+*.o
+*.out
+a.out
+
+# Mac
+.DS_Store
+
+# VS Code
+.vscode/
