@@ -5,9 +5,10 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 ## Progress
 
 | # | Title | Difficulty | Language | Solution |
-|----|------------------------------------|---------|--------------|-------------------------------------------|
-| 1  | Two Sum                            | Easy    | Python       | [Solution](easy/001_two_sum.py)           |
-| 26 | Remove Duplicates from Sorted Array| Easy    | Python       | [Solution](easy/026_remove_duplicates.py) |
+|----|----------------------------------------------|---------|
+| 1  | Two Sum                                      | Easy    | Python       | [Solution](easy/001_two_sum.py)                |
+| 26 | Remove Duplicates from Sorted Array          | Easy    | Python       | [Solution](easy/026_remove_duplicates.py)      |
+| 27 | Remove Element                               | Easy    | Python       | [Solution](easy/027_remove_element.py)         |
 
 ## Structure
 
@@ -17,7 +18,7 @@ leetcode/
 └── hard/ (coming after DSA)
 
 ## Stats
-- Easy: 2
+- Easy: 3
 - Medium: 0
 - Hard: 0
 
