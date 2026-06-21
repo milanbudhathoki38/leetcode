@@ -16,8 +16,10 @@
 # - best_sum tracks the best sum seen anywhere so far
 # Time: O(n) | Space: O(1)
 
+from typing import List
+
 class Solution:
-    def maxSubArray(self, nums):
+    def maxSubArray(self, nums: List[int]) -> int:
         current_sum = nums[0]
         best_sum = nums[0]
 
@@ -42,3 +44,8 @@ if __name__ == "__main__":
 
     nums = [5, 4, -1, 7, 8]
     print(f"max_sum = {sol.maxSubArray(nums)}")  # max_sum = 23
+
+
+
+
+    
