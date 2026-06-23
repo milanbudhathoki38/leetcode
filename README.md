@@ -4,14 +4,19 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 
 ## Progress
 
-| #  | Title                                        | Difficulty| Language     | Solution                                               |
-|----|----------------------------------------------|-----------|--------------|--------------------------------------------------------|
-| 1  | Two Sum                                      | Easy      | Python       | [Solution](easy/001_two_sum.py)                        |
-| 26 | Remove Duplicates from Sorted Array          | Easy      | Python       | [Solution](easy/026_remove_duplicates.py)              |
-| 27 | Remove Element                               | Easy      | Python       | [Solution](easy/027_remove_element.py)                 |
-| 53 | Maximum SubArray                             | Medium    | Python       | [Solution](medium/053_maximum_subarray.py)             |
-| 121 | Best Time to Buy and Sell Stock             | Easy      | Pyhton       | [Solution](easy/121_best_time_to_buy_sell_stock.py)    |
-| 20  | Valid Parentheses                           | Easy      | Python       | [Solution](easy/012_valid_parentheses.py)              |
+| #    | Title                                        | Difficulty| Language     | Solution                                               |
+|------|----------------------------------------------|-----------|--------------|--------------------------------------------------------|
+| 0001 | Two Sum                                      | Easy      | Python       | [Solution](easy/001_two_sum.py)                        |
+| 0026 | Remove Duplicates from Sorted Array          | Easy      | Python       | [Solution](easy/026_remove_duplicates.py)              |
+| 0027 | Remove Element                               | Easy      | Python       | [Solution](easy/027_remove_element.py)                 |
+| 0053 | Maximum SubArray                             | Medium    | Python       | [Solution](medium/053_maximum_subarray.py)             |
+| 0121 | Best Time to Buy and Sell Stock              | Easy      | Pyhton       | [Solution](easy/121_best_time_to_buy_sell_stock.py)    |
+| 0020 | Valid Parentheses                            | Easy      | Python       | [Solution](easy/012_valid_parentheses.py)              |
+| 0217 | Contains Duplicates                          | Easy      | Python       | [Solution](easy/217_contaisn_duplicates.py)            |
+
+
+
+
 
 ## Structure
 
@@ -21,11 +26,13 @@ leetcode/
 └── hard/ (coming after DSA)
 
 ## Stats
-- Easy: 3
+
+- Easy: 6
 - Medium: 1
 - Hard: 0
 
 ## Goals
-- Solve 2-3 problems weekly
+
+- Paused for backend learning through website
 - Master easy problems before moving to medium
-- Start medium after completing DSA next semester
+- Start hard after completing DSA next semester
