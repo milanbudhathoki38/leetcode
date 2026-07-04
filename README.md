@@ -16,7 +16,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0070 | CLimbing Stairs                              | Easy      | Python       | [Solution](easy/070_climbing_stairs.py)                |
 | 0198 | House Robber                                 | Medium    | Python       | [Solution](medium/198_house_robber.py)                 |
 | 0066 | Plus One                                     | Easy      | Python       | [Solution](easy/066_plus_one.py)                       |
-
+| 0202 | Happy Number                                 | Easy      | Python       | [Solution](easy/202_happy_number.py)                   |
 
 
 
