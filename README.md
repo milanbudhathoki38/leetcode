@@ -17,7 +17,8 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0198 | House Robber                                 | Medium    | Python       | [Solution](medium/198_house_robber.py)                 |
 | 0066 | Plus One                                     | Easy      | Python       | [Solution](easy/066_plus_one.py)                       |
 | 0202 | Happy Number                                 | Easy      | Python       | [Solution](easy/202_happy_number.py)                   | 
-|
+| 0349 | Intersection  Of Two Arrays                  | Easy      | Python       | [Solution](easy/349_intersection_of_two_arrays.py)     |
+| 0283 | Move Zeroes                                  | Easy      | Python       | [Solution](easy/283_move_zeroes.py)                    |
 
 
 
