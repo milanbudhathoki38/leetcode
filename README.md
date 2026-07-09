@@ -19,7 +19,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0202 | Happy Number                                 | Easy      | Python       | [Solution](easy/202_happy_number.py)                   | 
 | 0349 | Intersection  Of Two Arrays                  | Easy      | Python       | [Solution](easy/349_intersection_of_two_arrays.py)     |
 | 0283 | Move Zeroes                                  | Easy      | Python       | [Solution](easy/283_move_zeroes.py)                    |
-|
+| 0125 | Valid Palindrome                             | Easy      | Python       | [Solution](easy/125_valid_palindrome.py)               |
 
 
 
