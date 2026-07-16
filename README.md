@@ -20,7 +20,9 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0349 | Intersection  Of Two Arrays                  | Easy      | Python       | [Solution](easy/349_intersection_of_two_arrays.py)     |
 | 0283 | Move Zeroes                                  | Easy      | Python       | [Solution](easy/283_move_zeroes.py)                    |
 | 0125 | Valid Palindrome                             | Easy      | Python       | [Solution](easy/125_valid_palindrome.py)               |
-|
+| 0136 | Single Number                                | Easy      | Python       | [Solution](easy/136_single_number.py)                  |
+| 0219 | Contains Duplicate -II                       | Easy      | Python       | [Solution](easy/219_contains_duplicate_ii.py)          |
+
 
 
 
