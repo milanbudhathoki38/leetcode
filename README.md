@@ -22,6 +22,8 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0125 | Valid Palindrome                             | Easy      | Python       | [Solution](easy/125_valid_palindrome.py)               |
 | 0136 | Single Number                                | Easy      | Python       | [Solution](easy/136_single_number.py)                  |
 | 0219 | Contains Duplicate -II                       | Easy      | Python       | [Solution](easy/219_contains_duplicate_ii.py)          |
+| 0268 | Missing Number                               | Easy      | Python       | [Solution](easy/268_missing_number.py)                 |
+| 1732 | Find The HIghest ALtitude                    | Easy      | Python       | [Solution](easy/1732_find_the_highest_altitude.py)     |
 
 
 
