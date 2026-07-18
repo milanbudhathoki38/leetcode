@@ -24,6 +24,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0219 | Contains Duplicate -II                       | Easy      | Python       | [Solution](easy/219_contains_duplicate_ii.py)          |
 | 0268 | Missing Number                               | Easy      | Python       | [Solution](easy/268_missing_number.py)                 |
 | 1732 | Find The HIghest ALtitude                    | Easy      | Python       | [Solution](easy/1732_find_the_highest_altitude.py)     |
+| 1480 | Running Sum Of The 1D Array                  | Easy      | Python       | [Solution](easy/1480_running_sum_of_1d_array.py)       |
 
 
 
