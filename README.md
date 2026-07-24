@@ -27,6 +27,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 1480 | Running Sum Of The 1D Array                  | Easy      | Python       | [Solution](easy/1480_running_sum_of_1d_array.py)       |
 | 0509 | Fibonacci Number                             | Easy      | Python       | [Solution](easy/509_fibonacci_number.py)               |
 | 1603 | Design Parking System                        | Easy      | Python       | [Solutio](easy/1603_design_parking_system.py)          |
+|
 
 
 
