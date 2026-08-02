@@ -29,7 +29,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 1603 | Design Parking System                        | Easy      | Python       | [Solution](easy/1603_design_parking_system.py)         |
 | 0705 | Design Hashset                               | Easy      | Python       | [Solution](easy/0705_design_hashset.py)                |
 | 1470 | Shuffle The Array                            | Easy      | Python       | [Solution](easy/1470_shuffle_the_array.py)             |
-| 1929 |
+| 1929 | 
 
 
 
