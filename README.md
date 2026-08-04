@@ -32,7 +32,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 1929 | Concatenation Of Array                       | Easy      | Python       | [Solution](easy/1929_concatenation_of_array.py)        |
 | 0213 | House Robber- II                             | Medium    | Python       | [Solution](medium/0213_house_robber_ii.py)             |
 | 1920 | Build Array From Permutation                 | Easy      | Python       | [Solution](easy/1920_build_array_from_permutation.py)  |
-
+|
 
 
 
