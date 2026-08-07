@@ -120,3 +120,48 @@ if __name__ == "__main__":
     print(f"get(0) = {obj2.get(0)}")  # 3
     print(f"get(1) = {obj2.get(1)}")  # 7
     print(f"get(2) = {obj2.get(2)}")  # -1 (out of bounds)
+
+    # empty list edge cases 
+
+    obj3 = MyLinkedList()
+    print(f"get(0) on empty list = {obj3.get(0)}") # -1
+    obj3.deleteAtIndex(0) # should do nothing,  no crash 
+    print(f"size after deleting from empty list = {obj3.size}") # 0
+
+    #addAtIndex with index == size (should behave like addAtTail)
+
+    obj4 = MyLinkedList()
+    obj4.addAtHead(10)
+    obj4.addAtHead(20)
+    obj4.addAtIndex(2, 30) # index == size, append at tail 
+    print(f"get(2) after addAtIndex(2, 30) = {obj4.get(2)}") # 30
+
+    # addAtIndex with negative index (should behave like addAtHead)
+
+    obj5 = MyLinkedList()
+    obj5.addAtTail(100)
+    obj5.addAtIndex(-5, 200)
+    print(f"get(0) after addAtIndex(-5, 200)= {obj5.get(0)}") # 200
+
+    # addAtIndex with index > size (should do nothing)
+    obj6 = MyLinkedList()
+    obj6.addAtHead(1)
+    obj6.addAtIndex(10, 999) # invalid, size is only 1
+    print(f"size after invalid addAtIndex = {obj6.size}") # 1
+
+    # deleting the only node in the list 
+    obj7 = MyLinkedList()
+    obj7.addAtHead(5)
+    obj7.deleteAtIndex(0)
+    print(f"size after deleting only node = {obj7.size}") # 0
+    print(f"get(0) after deleting only node = {obj7.get(0)}") # -1
+
+    # chain of adds and deltes together 
+    obj8 = MyLinkedList()
+    obj8.addAtTail(1)
+    obj8.addAtTail(2)
+    obj8.addAtTail(3)
+    obj8.deleteAtIndex(1)
+    obj8.addAtIndex(1, 99)
+    print(f"final list values: {obj8.get(0)}, {obj8.get(1)}, {obj8.get(2)}")
+
