@@ -33,6 +33,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0213 | House Robber- II                             | Medium    | Python       | [Solution](medium/0213_house_robber_ii.py)             |
 | 1920 | Build Array From Permutation                 | Easy      | Python       | [Solution](easy/1920_build_array_from_permutation.py)  |
 | 0707 | Design Linked List                           | Medium    | Python       | [Solution](medium/0707_designlinked_list.py)           |
+| 2114 | Maximum Number Of Words Found In Sentences   | Easy      | Python       | [Solution](easy/2114_max_num_words_found_in_sentences.py) |
 
 
 
