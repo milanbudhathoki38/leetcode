@@ -35,6 +35,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0707 | Design Linked List                           | Medium    | Python       | [Solution](medium/0707_design_linked_list.py)          |
 | 2114 | Maximum Number Of Words Found In Sentences   | Easy      | Python       | [Solution](easy/2114_max_num_words_found_in_sentences.py) |
 | 1051 | Height Checker                               | Easy      | Python       | [Solution](easy_1051_height_checker.py)                |
+|
 
 
       
