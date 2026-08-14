@@ -21,6 +21,13 @@
 # Time: get/addAtIndex/deleteAtIndex O(n), addAtHead O(1), addAtTail O(n)
 # Space: O(n) for the list itself, O(1) per operation
 
+# Note: some loops below use "_" instead of "i" as the loop variable.
+# This is just a naming convention. It means: "I'm looping a certain
+# number of times, but I never actually use the counter's value
+# inside the loop." Using "_" signals that on purpose, so it's clear
+# at a glance that nothing inside the loop depends on which step
+# you're currently on.
+
 
 class Node:
     def __init__(self, val):
