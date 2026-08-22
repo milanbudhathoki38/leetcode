@@ -36,6 +36,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 2114 | Maximum Number Of Words Found In Sentences   | Easy      | Python       | [Solution](easy/2114_max_num_words_found_in_sentences.py)   |
 | 1051 | Height Checker                               | Easy      | Python       | [Solution](easy/1051_height_checker.py)                     |
 | 0303 | Range Sum Query - Immutable                  | Easy      | Python       | [Solution](easy/0303_range_sum_query_immutable.py)          |
+| 0141 | Linked List Cycle                            | Easy      | Python       | [Solution](easy/0202_happy_number.py)                       |
 
 
       
