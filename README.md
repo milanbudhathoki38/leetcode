@@ -40,6 +40,7 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 1431 | Kids With Gretaest Number Of Candies         | Easy      | Python       | [Solution](easy/1431_kids_with_greatest_number_of_candies.py)|
 | 0226 | Invert Binary Tree                           | Medium    | Python       | [Solution](medium/0226_invert_binary_tree.py)                |
 | 0155 | Minstack                                     | Medium    | Python       | [Solution](medium/0155_min_stack.py)                         |
+| 1971 | Find if path exist                           | Easy      | Python       | [Solution](easy/1971_find_if_path_exists_in_graph.py)        |
 
       
 
