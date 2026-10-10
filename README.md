@@ -56,6 +56,8 @@ My LeetCode solutions in Python (and C++ in the future). Solving problems consis
 | 0704 | Binary Search                                | Easy      | Python       | [Solution](easy/0704_binary_search.py)                       |
 | 0841 | Keys and Rooms                               | Medium    | Python       | [Solutiom](medium/0841_keys_and_rooms.py)                    |
 | 1791 | Find Center of Star Graph                    | Easy      | Python       | [Solution](easy/1791_find_center_of_star_graph.py)           |
+| 0009 | Palindrome Number                            | Easy      | Python       | [Solution](easy/0009_palindrome_number.py)                   |
+| 
 
 
 
